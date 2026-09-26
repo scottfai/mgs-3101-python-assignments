@@ -21,12 +21,13 @@ print(file.read())
 file.close()
 
 if total_revenue >= 500:
-print("Revenue is at least $500")
+    print("Revenue is at least $500")
 else:
      print("Revenue is less than $500")
 
 print("Drinks Purchased:", drinks_purchased)
 print("Pastries Purchased:", pastries_purchased)
+
 if drinks_purchased > pastries_purchased:
 
 print("Recommendation: Sell more drinks.")
