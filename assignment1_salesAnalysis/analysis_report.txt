@@ -1,0 +1,20 @@
+Coffee Shop Sales Analysis
+
+Dataset Overview
+The dataset contains coffee shop transactions, including products sold,
+sales quantities, pricing information, dates, times, and store locations.
+
+Key Findings
+1. Coffee beverages generate most of the shop's revenue.
+2. Peak sales occur during morning hours.
+3. Some pastry products do not sell as often as other drinks.
+
+Recommendations
+1. Increase staffing and inventory during peak hours.
+2. Endorse low-selling pastries with combo deals.
+3. Focus advertising on the highest-revenue drink products.
+
+Questions
+1. Why do some store places perform better than others?
+2. Which seasonal trends are in customer consumption?
+3. Does a loyalty rewards program increase continuous visits?
